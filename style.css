@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(117, 169, 221);
+    margin: 10px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.item-1 {
+    background-image: url(./images/Кот1.jpeg);
+    
+}
+
+.item-2 {
+    background-image: url(./images/Кот2.jpg);
+}
+
+.item-3 {
+    background-image: url(./images/Кот3.jpeg);
+}
+
+.item-4 {
+    background-image: url(./images/Кот4.jpg);
+}
+
+.item-5 {
+    background-image: url(./images/Кот5.jpg);
+}
+
+.item-6 {
+    background-image: url(./images/Кот6.jpeg);
+}
+
+.item-7 {
+    background-image: url(./images/Кот7.jpeg);
+}
+
+.item-8 {
+    background-image: url(./images/Кот8.jpg);
+}
